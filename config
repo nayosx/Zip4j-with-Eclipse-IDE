@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/nayosx/Zip4j-with-Eclipse-IDE.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	name = nayosx
+	email = nayos144@gmail.com
